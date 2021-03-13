@@ -1,11 +1,12 @@
-### Welcome! 👋 Key Projects
+### Welcome! ⚡ Key Projects
 
 - [Build-OpenSSL-cURL](https://github.com/jasonacox/Build-OpenSSL-cURL) - Scripts to build OpenSSL, HTTP/2 (nghttp2) and cURL (libcurl) for MacOS, iOS and tvOS devices (x86_64, armv7, armv7s, arm64, arm64e). Now Supporting Apple Silicon (arm64), OpenSSL 1.1.1 with TLS 1.3 and Mac Catalyst builds.
-- [TinyTuya](https://github.com/jasonacox/tinytuya) - Python module to interface with Tuya WiFi smart devices.
+- [TinyTuya](https://github.com/jasonacox/tinytuya) - Python PyPI module to interface with Tuya WiFi smart devices.
 - [TM1637TinyDisplay](https://github.com/jasonacox/TM1637TinyDisplay) - Arduino library to display numbers and text on a 4-digit 7-segment TM1637 display module.
-- [TinyStepper](https://github.com/jasonacox/TinyStepper) - Simple Arduino library to drive stepper motors. Small and easy to use.
+- [TinyStepper](https://github.com/jasonacox/TinyStepper) - Arduino library to drive stepper motors. Simple, small and easy to use.
 - [TinySplunk](https://github.com/jasonacox/TinySplunk) - Tools and instructions to build and use a free version of Splunk for home.
 
+[Twitter @jasonacox](https://twitter.com/jasonacox) | [Blog www.jasonacox.com](https://www.jasonacox.com/) | [LinkedIn](https://www.linkedin.com/in/jasoncox3/) | [Work](https://thewaltdisneycompany.com/)
 <!--
 **jasonacox/jasonacox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
