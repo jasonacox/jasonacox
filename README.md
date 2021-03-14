@@ -6,7 +6,7 @@
 - [TinyStepper](https://github.com/jasonacox/TinyStepper) - Arduino library to drive stepper motors. Simple, small and easy to use.
 - [TinySplunk](https://github.com/jasonacox/TinySplunk) - Tools and instructions to build and use a free version of Splunk for home.
 
-[Twitter @jasonacox](https://twitter.com/jasonacox) | [Blog www.jasonacox.com](https://www.jasonacox.com/) | [LinkedIn](https://www.linkedin.com/in/jasoncox3/) | [Work](https://thewaltdisneycompany.com/)
+💬 [@jasonacox](https://twitter.com/jasonacox) | 🌎 [www.jasonacox.com](https://www.jasonacox.com/) | 🔗 [LinkedIn](https://www.linkedin.com/in/jasoncox3/) | 🐭 [Work](https://thewaltdisneycompany.com/)
 <!--
 **jasonacox/jasonacox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
