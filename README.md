@@ -1,4 +1,4 @@
-### Welcome! ⚡ Key Projects
+### Welcome! ⚡ Some Key Projects
 
 - [Build-OpenSSL-cURL](https://github.com/jasonacox/Build-OpenSSL-cURL) - Build OpenSSL, nghttp2 and curl for MacOS (Intel & Apple Silicon), iOS and tvOS.
 - [TinyTuya](https://github.com/jasonacox/tinytuya) - Python PyPI module to interface with Tuya WiFi smart devices.
