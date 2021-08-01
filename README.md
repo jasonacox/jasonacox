@@ -7,6 +7,7 @@
 - [Ender3-Filament-Digital-Scale](https://github.com/jasonacox/Ender3-Filament-Digital-Scale) - Digital filament scale for Creality Ender-3 3D Printer.
 - [TinySplunk](https://github.com/jasonacox/TinySplunk) - Tools and instructions to build and use a free version of Splunk for home.
 - [ATtiny85-Weather-Station](https://github.com/jasonacox/ATtiny85-Weather-Station) - ATtiny85 based digital weather station for temp, humidity and pressure.
+- [OpenGL-LIDAR-Display](https://github.com/jasonacox/OpenGL-LIDAR-Display) - Display realtime LIDAR point cloud data from Slamtec RPLIDAR via OpenGL.
 
 💬 [@jasonacox](https://twitter.com/jasonacox) | 🌎 [jasonacox.com](https://www.jasonacox.com/) | 🔗 [LinkedIn](https://www.linkedin.com/in/jasoncox3/) 
 <!--
