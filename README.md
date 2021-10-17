@@ -8,7 +8,8 @@
 - [TinySplunk](https://github.com/jasonacox/TinySplunk) - Tools and instructions to build and use a free version of Splunk for home.
 - [ATtiny85-Weather-Station](https://github.com/jasonacox/ATtiny85-Weather-Station) - ATtiny85 based digital weather station for temp, humidity and pressure.
 - [OpenGL-LIDAR-Display](https://github.com/jasonacox/OpenGL-LIDAR-Display) - Display realtime LIDAR point cloud data from Slamtec RPLIDAR via OpenGL.
-
+- [pyPowerwall](https://github.com/jasonacox/pypowerwall) - Python PyPI modules to interface with Tesla Energy Powerwall Gateways.
+- 
 💬 [@jasonacox](https://twitter.com/jasonacox) | 🌎 [jasonacox.com](https://www.jasonacox.com/) | 🔗 [LinkedIn](https://www.linkedin.com/in/jasoncox3/) 
 <!--
 **jasonacox/jasonacox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
