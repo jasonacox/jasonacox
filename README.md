@@ -9,6 +9,7 @@
 - [ATtiny85-Weather-Station](https://github.com/jasonacox/ATtiny85-Weather-Station) - ATtiny85 based digital weather station for temp, humidity and pressure.
 - [OpenGL-LIDAR-Display](https://github.com/jasonacox/OpenGL-LIDAR-Display) - Display realtime LIDAR point cloud data from Slamtec RPLIDAR via OpenGL.
 - [pyPowerwall](https://github.com/jasonacox/pypowerwall) - Python PyPI module to interface with Tesla Energy Powerwall Gateways.
+- [Powerwall-Dashboard](https://github.com/jasonacox/Powerwall-Dashboard) - Grafana Dashboard for Tesla Powerwall.
 
 💬 [@jasonacox](https://twitter.com/jasonacox) | 🌎 [jasonacox.com](https://www.jasonacox.com/) | 🔗 [LinkedIn](https://www.linkedin.com/in/jasoncox3/) 
 <!--
