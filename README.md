@@ -1,15 +1,16 @@
-### Welcome! ⚡ Some Key Projects
+### Welcome! ⚡ Key Projects
 
 - [Build-OpenSSL-cURL](https://github.com/jasonacox/Build-OpenSSL-cURL) - Build OpenSSL, nghttp2 and curl for MacOS (Intel & Apple Silicon), iOS and tvOS.
 - [TinyTuya](https://github.com/jasonacox/tinytuya) - Python PyPI module to interface with Tuya WiFi smart devices.
+- [Powerwall-Dashboard](https://github.com/jasonacox/Powerwall-Dashboard) - Grafana Dashboard for Tesla Powerwall.
+- [pyPowerwall](https://github.com/jasonacox/pypowerwall) - Python PyPI module to interface with Tesla Energy Powerwall Gateways.
 - [TM1637TinyDisplay](https://github.com/jasonacox/TM1637TinyDisplay) - Arduino library to display numbers and text on 4 and 6 digit 7-segment TM1637 display modules.
 - [TinyStepper](https://github.com/jasonacox/TinyStepper) - Arduino library to drive stepper motors. Simple, small and easy to use.
 - [Ender3-Filament-Digital-Scale](https://github.com/jasonacox/Ender3-Filament-Digital-Scale) - Digital filament scale for Creality Ender-3 3D Printer.
 - [TinySplunk](https://github.com/jasonacox/TinySplunk) - Tools and instructions to build and use a free version of Splunk for home.
 - [ATtiny85-Weather-Station](https://github.com/jasonacox/ATtiny85-Weather-Station) - ATtiny85 based digital weather station for temp, humidity and pressure.
 - [OpenGL-LIDAR-Display](https://github.com/jasonacox/OpenGL-LIDAR-Display) - Display realtime LIDAR point cloud data from Slamtec RPLIDAR via OpenGL.
-- [pyPowerwall](https://github.com/jasonacox/pypowerwall) - Python PyPI module to interface with Tesla Energy Powerwall Gateways.
-- [Powerwall-Dashboard](https://github.com/jasonacox/Powerwall-Dashboard) - Grafana Dashboard for Tesla Powerwall.
+- [GridBug](https://github.com/jasonacox/gridbug) - Simple dashboard to monitor network connectivity between nodes and display graph.
 
 💬 [@jasonacox](https://twitter.com/jasonacox) | 🌎 [jasonacox.com](https://www.jasonacox.com/) | 🔗 [LinkedIn](https://www.linkedin.com/in/jasoncox3/) 
 <!--
