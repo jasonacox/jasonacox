@@ -2,7 +2,7 @@
 
 - [Build-OpenSSL-cURL](https://github.com/jasonacox/Build-OpenSSL-cURL) - Build OpenSSL, nghttp2 and curl for MacOS (Intel & Apple Silicon), iOS and tvOS.
 - [TinyTuya](https://github.com/jasonacox/tinytuya) - Python PyPI module to interface with Tuya WiFi smart devices.
-- [Powerwall-Dashboard](https://github.com/jasonacox/Powerwall-Dashboard) - Grafana Dashboard for Tesla Powerwall.
+- [Powerwall-Dashboard](https://github.com/jasonacox/Powerwall-Dashboard) - Dashboard for local monitoring of Tesla Powerwall using Grafana.
 - [pyPowerwall](https://github.com/jasonacox/pypowerwall) - Python PyPI module to interface with Tesla Energy Powerwall Gateways.
 - [TM1637TinyDisplay](https://github.com/jasonacox/TM1637TinyDisplay) - Arduino library to display numbers and text on 4 and 6 digit 7-segment TM1637 display modules.
 - [TinyStepper](https://github.com/jasonacox/TinyStepper) - Arduino library to drive stepper motors. Simple, small and easy to use.
