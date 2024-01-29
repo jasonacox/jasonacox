@@ -11,6 +11,7 @@
 - [ATtiny85-Weather-Station](https://github.com/jasonacox/ATtiny85-Weather-Station) - ATtiny85 based digital weather station for temp, humidity and pressure.
 - [OpenGL-LIDAR-Display](https://github.com/jasonacox/OpenGL-LIDAR-Display) - Display realtime LIDAR point cloud data from Slamtec RPLIDAR via OpenGL.
 - [GridBug](https://github.com/jasonacox/gridbug) - Simple visualization to show network connectivity between multiple nodes.
+- [TinyLLM](https://github.com/jasonacox/TinyLLM) - Run a local LLM and Chatbot using consumer grade hardware.
 
 💬 [@jasonacox](https://twitter.com/jasonacox) | 🌎 [jasonacox.com](https://www.jasonacox.com/) | 🔗 [LinkedIn](https://www.linkedin.com/in/jasoncox3/) 
 <!--
