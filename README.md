@@ -12,6 +12,7 @@
 - [OpenGL-LIDAR-Display](https://github.com/jasonacox/OpenGL-LIDAR-Display) - Display realtime LIDAR point cloud data from Slamtec RPLIDAR via OpenGL.
 - [GridBug](https://github.com/jasonacox/gridbug) - Simple visualization to show network connectivity between multiple nodes.
 - [TinyLLM](https://github.com/jasonacox/TinyLLM) - Setup and run a local LLM and Chatbot using consumer grade hardware.
+- [MoviesThisDay](https://github.com/jasonacox/MoviesThisDay) - Python app that returns a list of movies released on this day in history ([moviesthisday.com](https://moviesthisday.com/))
 
 💬 [@jasonacox](https://twitter.com/jasonacox) | 🌎 [jasonacox.com](https://www.jasonacox.com/) | 🔗 [LinkedIn](https://www.linkedin.com/in/jasoncox3/) 
 <!--
