@@ -13,6 +13,7 @@
 - [GridBug](https://github.com/jasonacox/gridbug) - Simple visualization to show network connectivity between multiple nodes.
 - [TinyLLM](https://github.com/jasonacox/TinyLLM) - Setup and run a local LLM and Chatbot using consumer grade hardware.
 - [MoviesThisDay](https://github.com/jasonacox/MoviesThisDay) - Python app that returns a list of movies released on this day in history ([moviesthisday.com](https://moviesthisday.com/))
+- [DGX Spark](https://github.com/jasonacox/dgx-spark) - Helpful Tools for the Nvidia DGX Spark AI Personal Supercomputer.
 
 💬 [@jasonacox](https://twitter.com/jasonacox) | 🌎 [jasonacox.com](https://www.jasonacox.com/) | 🔗 [LinkedIn](https://www.linkedin.com/in/jasoncox3/) 
 <!--
